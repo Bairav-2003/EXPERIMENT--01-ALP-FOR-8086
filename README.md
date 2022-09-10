@@ -1,8 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 
-Name :EASWAR.J
+Name :BAIRAV SKANDAN.LOHA
 
-Roll no : 212221230024
+Roll no : 212221230010
 
 Date of experiment : 09/09/22
 
