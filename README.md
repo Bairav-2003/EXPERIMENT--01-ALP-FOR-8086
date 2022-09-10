@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086:
 ~~~
-Name : H.Syed Abdul Wasih 
-Register Number : 212221240057
+Name : Bairav Skandan Loha
+Register Number : 212221230010
 Date of experiment : 09/09/2022
 ~~~
 ## Aim: 
